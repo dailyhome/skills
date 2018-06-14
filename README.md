@@ -5,9 +5,16 @@ DailyIoT Device Skill helps your device to perform a certain set of Functionalit
 
 > Each Skill builds an image as `s8sg/skill-<skill name>`
 
-##### Currently available skill:
+#### Currently available skill:
+
+##### Raspberry
+
+| Skill        | Image Name         | Platform  |  Desc     |
+|:------------- |:-------------|:-----:|:------:|
+| switch-rasp  | s8sg/skill-switch-rasp | Raspberry Pi | Switch for Raspberry-PI|
+
+##### Dummy
 
 | Skill        | Image Name         | Platform  |  Desc     |
 |:------------- |:-------------|:-----:|:------:|
 | switch-dummy | s8sg/skill-switch-dummy| all | Switch Dummy for test|
-| switch-rasp  | s8sg/skill-switch-rasp | Raspberry Pi | Switch for Raspberry-PI|
