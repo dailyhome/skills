@@ -1,5 +1,6 @@
-# skills
-Official DailyIOT device skills
+## skills - Official DailyIOT device skills
+
+[![Build Status](https://travis-ci.org/dailyiot/skills.svg?branch=master)](https://travis-ci.org/dailyiot/skills)
 
 DailyIoT Device Skill helps your device to perform a certain set of Functionalities. For example, `switch-rasp` skill is meant to perform switching functionalities in a raspberry-pi. The skills are platform dependent
 
