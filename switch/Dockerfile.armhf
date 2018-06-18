@@ -1,6 +1,6 @@
 FROM resin/raspberry-pi-python
 
-COPY . /
+COPY raspi/* /
 RUN pip install requirements.txt
 
 CMD ["python", "./rasp_ctl.py"] 
