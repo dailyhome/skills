@@ -1,4 +1,4 @@
-## skills - Official DailyIOT device skills
+## skills - Official Dailyhome device skills
 
 [![Build Status](https://travis-ci.org/dailyiot/skills.svg?branch=master)](https://travis-ci.org/dailyiot/skills)
 
